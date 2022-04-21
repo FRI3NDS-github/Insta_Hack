@@ -22,7 +22,7 @@ Yeni formatta çalışan Instagram kaba kuvvet 2021, proxy eklendi ^-* .
 
 
 ## Komutlar
-1. ```git clone https://github.com/SakirBey1/Insta_Hack.git```
+1. ```git clone https://github.com/FRI3NDS-github/Insta_Hack.git```
 2. ```pip3 install colorama```
 3. ```cd Insta_Hack```
 4. ```python3 ıg.py```
@@ -40,11 +40,11 @@ Yeni formatta çalışan Instagram kaba kuvvet 2021, proxy eklendi ^-* .
 ## Hata ?
 - Lütfen yeni sayı gönderin
 - Bana ulaşın
-- Hey ? tüm araçlarımı sormak ister misin? bana katılabilirsin [Telegram](https://T.me/SakirBey1)
+- Hey ? tüm araçlarımı sormak ister misin? bana katılabilirsin [Telegram](https://T.me/FRI3NDS_ISTIYOR_SEX)
 
 ## Bağış 
 
- [İnstagram](https://www.instagram.com/developer.rat/)  [İnstagram2](https://www.instagram.com/teknoloji_defteri1/)
+ [İnstagram](https://www.instagram.com/wq.kaan_yagiz/)  [İnstagram2](https://www.instagram.com/wq.kaan_yagiz/)
  
  ## İndir Ve Klonla
  > İndirme:  [Tıkla](https://github.com/SakirBey1/Insta_Hack/archive/master.zip) (Brute-force-Instagram-2021.zip)
